@@ -57,6 +57,9 @@ Diagram data stays in the browser unless you export it yourself. Network Atlas d
 
 Keep it dependency-free and useful offline. Small, understandable changes are preferred over adding a framework for the sake of having one.
 
+## Affiliation
+This project is open-source and not affiliated with SolarWinds.
+
 ## License
 
 BSD 3-Clause. Redistributions must retain the copyright and license notice crediting Liam0nster. See [LICENSE](LICENSE).
