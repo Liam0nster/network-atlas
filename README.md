@@ -4,6 +4,12 @@ Network Atlas is a network diagram builder contained in one HTML file. Open it i
 
 If a diagram tool needs your email address before it lets you draw a box and a line, something has gone wrong.
 
+## Screenshots
+
+![Network Atlas showing the fictional repair workshop topology](assets/screenshots/network-atlas-overview.png)
+
+![Network Atlas device properties editor](assets/screenshots/device-properties.png)
+
 ## Use it
 
 1. Download `index.html`.
