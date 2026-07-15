@@ -13,7 +13,7 @@ If a diagram tool needs your email address before it lets you draw a box and a l
 ## Use it
 
 1. Download `index.html`.
-2. Open it in a current browser.
+2. Open it in a current browser. * *Note this may require the latest version of your browser. In testing, this does not work on Chrome 147* *
 3. Drag devices onto the canvas.
 4. Export the project JSON when you want a real backup.
 
